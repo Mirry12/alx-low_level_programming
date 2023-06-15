@@ -1,11 +1,11 @@
-#include<stdio.h>
+#inc lude<stdio.h>
 /**
- * main-Enty point
+ * main - Enty point
  *
  * Return: Always 0 (Success)
  */
 int main(void)
  {
-        puts("Programming is like building a multilingual puzzle);
+        puts("\"Programming is like building a multilingual puzzle");
         returns(0);
- }	
+  }	
